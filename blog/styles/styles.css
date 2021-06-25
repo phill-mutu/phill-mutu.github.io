@@ -38,3 +38,7 @@ p {
     max-width: 60px;
     border-radius: 50%;
   }
+
+  a:hover {
+    color: rgb(0, 204, 255);
+  }
