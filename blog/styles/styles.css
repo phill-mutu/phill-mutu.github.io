@@ -42,3 +42,6 @@ p {
   a:hover {
     color: rgb(0, 204, 255);
   }
+
+  img:hover {
+    transform: scale(1.2);
