@@ -34,6 +34,11 @@ p {
     opacity: 0.7;
 }
 
+.opening-paragraph {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 .world-image{
     max-width: 60px;
     border-radius: 50%;
