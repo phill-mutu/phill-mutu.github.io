@@ -39,14 +39,22 @@ p {
   margin-bottom: 10px;
 }
 
-.world-image{
-    max-width: 60px;
-    border-radius: 50%;
+.world-image {
+  max-width: 60px;
+  border-radius: 50%;
   }
 
-  a:hover {
-    color: rgb(0, 204, 255);
+#small-top-margin {
+  margin-top: 10px;
+}
+
+#small-bottom-margn {
+  margin-bottom: 10px;
+}
+
+a:hover {
+  color: rgb(0, 204, 255);
   }
 
-  img:hover {
-    transform: scale(1.2);
+img:hover {
+  transform: scale(1.2);
