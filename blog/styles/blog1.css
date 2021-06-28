@@ -52,3 +52,9 @@ a:hover {
   width: 410px;
   height: 295px;
 }
+
+.first-paragraph {
+  font-size: 12px;
+  text-align:justify;
+  font-family: 'Lucida Sans', Arial, sans-serif;
+}
