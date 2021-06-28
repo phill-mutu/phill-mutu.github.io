@@ -39,6 +39,9 @@ p {
   margin-bottom: 10px;
 }
 
+a:hover {
+  color: rgb(0, 204, 255);
+
 .first-image {
   max-width: 60px;
   }
