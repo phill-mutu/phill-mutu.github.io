@@ -16,9 +16,10 @@ h2 {
 }
 
 p {
-    font-size: 35px;
-    text-align: center;
-    font-family: 'Lucida Sans', Arial, sans-serif;
+  font-size: 14px;
+  text-align: justify;
+  font-family: 'Lucida Sans', Arial, sans-serif;
+  margin-left: 200px;
   }
 
 .index {
@@ -57,13 +58,6 @@ a:hover {
   margin-right: auto;
   width: 410px;
   height: 295px;
-}
-
-.first-paragraph {
-  font-size: 14px;
-  text-align: justify;
-  font-family: 'Lucida Sans', Arial, sans-serif;
-  margin-left: 200px;
 }
 
 .second-image {
