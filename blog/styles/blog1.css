@@ -101,7 +101,17 @@ a:hover {
   text-align: center;
 }
 
-.seventh-eighth-ninth-images{
+.seventh-eighth-ninth-images {
+  margin:auto;
+  margin-left:1em;
+  margin-right:1em;
+  margin-top:1em;
+  margin-bottom:1em;
+  display:inline-block;
+  text-align: center;
+}
+
+.tenth-to-twelfth-images {
   margin:auto;
   margin-left:1em;
   margin-right:1em;
