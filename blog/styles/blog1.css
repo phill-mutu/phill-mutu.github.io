@@ -93,8 +93,10 @@ a:hover {
 
 .fifth-image {
   margin-left: auto;
+  display: inline-block;
 }
 
 .sixth-image {
   margin-left: auto;
+  display: inline-block;
 }
