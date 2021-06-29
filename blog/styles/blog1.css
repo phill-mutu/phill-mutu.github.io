@@ -93,6 +93,7 @@ a:hover {
 
 .fifth-and-sixth-images {
   display: inline-block;
+  text-align: center;
   max-height: 399px;
   max-width: 307px;
 }
