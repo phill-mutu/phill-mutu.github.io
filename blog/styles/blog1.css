@@ -91,12 +91,8 @@ a:hover {
   text-align: center;
 }
 
-.fifth-image {
-  margin-left: auto;
+.fifth-and-sixth-images {
   display: inline-block;
-}
-
-.sixth-image {
-  margin-left: auto;
-  display: inline-block;
+  height: 462px;
+  width: 336px;
 }
