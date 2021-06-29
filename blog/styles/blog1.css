@@ -92,14 +92,20 @@ a:hover {
 }
 
 .fifth-and-sixth-images {
-  display: inline-block;
+  margin:auto;
+  margin-left:1em;
+  margin-right:1em;
+  margin-top:1em;
+  margin-bottom:1em;
+  display:inline-block;
   text-align: center;
-  max-height: 399px;
-  max-width: 307px;
 }
 .seventh-eighth-ninth-images{
-  display: inline-block;
+  margin:auto;
+  margin-left:1em;
+  margin-right:1em;
+  margin-top:1em;
+  margin-bottom:1em;
+  display:inline-block;
   text-align: center;
-  max-width: 180px;
-  max-height: 116px;
 }
