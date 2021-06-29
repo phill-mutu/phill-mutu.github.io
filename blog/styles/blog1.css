@@ -93,6 +93,9 @@ a:hover {
 
 .fifth-and-sixth-images {
   display: inline-block;
-  height: 399px;
-  width: 307px;
+  max-height: 399px;
+  max-width: 307px;
+}
+.seventh-eighth-ninth-images{
+
 }
