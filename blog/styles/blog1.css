@@ -97,5 +97,7 @@ a:hover {
   max-width: 307px;
 }
 .seventh-eighth-ninth-images{
-
+  display: inline-block;
+  max-width: 193px;
+  max-height: 126px;
 }
