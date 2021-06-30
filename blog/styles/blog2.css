@@ -19,6 +19,7 @@ h3 {
   text-align: justify;
   margin-left: 200px;
   margin-right: 200px;
+  margin-bottom: 0px;
 }
 
 ul {
@@ -33,6 +34,7 @@ p {
   font-family: 'Lucida Sans', Arial, sans-serif;
   margin-left: 200px;
   margin-right: 200px;
+  margin-top: 5px;
 }
 
 .index {
