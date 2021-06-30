@@ -123,9 +123,3 @@ a:hover {
   display:inline-block;
   text-align: center;
 }
-
-.h2-border {
-  border-style: dotted;
-  border-width: 2px;
-  border-color: antiquewhite;
-}
