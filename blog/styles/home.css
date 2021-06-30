@@ -15,6 +15,10 @@ p {
     font-family: 'Lucida Sans', Arial, sans-serif;
   }
 
+ol {
+  padding-inline-start: 0px;
+}
+
 .index {
     text-align: center;
     list-style-position: inside;
