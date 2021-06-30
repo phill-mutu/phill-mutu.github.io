@@ -21,6 +21,12 @@ h3 {
   margin-right: 200px;
 }
 
+ul {
+  text-align: justify;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
 p {
   font-size: 14px;
   text-align: justify;
