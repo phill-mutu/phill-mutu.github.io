@@ -37,6 +37,7 @@ p {
     border-color: rgb(70, 43, 226);
     height: 60px;
     width: 60px;
+    padding: 7px 10px 7px 10px;
     opacity: 0.7;
 }
 
