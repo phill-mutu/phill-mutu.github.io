@@ -60,6 +60,7 @@ a:hover {
 }
 
 .smallerImage {
+  text-align: center;
   display: block;
   height: 400px;
   width: 350px;
