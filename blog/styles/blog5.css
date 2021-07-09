@@ -68,8 +68,11 @@ a:hover {
 }
 
 .smallerImage {
-  text-align: center;
   display: block;
-  height: 400px;
-  width: 350px;
+  height: 350px;
+  width: 400px;
+}
+
+.center {
+  text-align: center;
 }
