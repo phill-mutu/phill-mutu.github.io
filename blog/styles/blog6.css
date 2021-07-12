@@ -1,0 +1,85 @@
+body {
+    background: url(https://img.wallpapersafari.com/desktop/1920/1080/4/15/c8jglL.jpg);
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(70, 43, 226);
+    margin-bottom: 50px;
+    margin-top: 40px;
+  }
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h3 {
+  text-align: justify;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 0px;
+  margin-top: 35px;
+}
+
+h4 {
+  text-align: justify;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 0px;
+  margin-top: 35px;
+}
+
+h5 {
+  text-align: justify;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 0px;
+  margin-top: 35px;
+}
+
+p {
+  font-size: 14px;
+  text-align: justify;
+  font-family: 'Lucida Sans', Arial, sans-serif;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 5px;
+}
+
+.index {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 20px;
+    color: blue;
+    margin-top: 60px;
+}
+
+.index-link {
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(70, 43, 226);
+    height: 60px;
+    width: 60px;
+    padding: 7px 10px 7px 10px;
+    opacity: 0.7;
+}
+
+.opening-paragraph {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+a:hover {
+  color: rgb(0, 204, 255);
+}
+
+.smallerImage {
+  height: 350px;
+  width: 400px; 
+}
+
+div {
+  text-align: center;
+}
